@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manvendra Singh</h1>
-<h3 align="center">A passionate full-stack developer from Rajasthan, India. I am currently a 4th year undergrad at IIIT KOTA.</h3>
+<h3 align="center">A passionate full-stack developer from Rajasthan, India. I am currently working as an SDE 1 at myKaarma.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
